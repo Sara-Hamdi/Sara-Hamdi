@@ -5,5 +5,4 @@
 - 🌱 I’m skilled in C++,C# and Python.
 - 🌱 I’m learning backend development.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: ...
 
